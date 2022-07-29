@@ -89,3 +89,4 @@ The ngx-cron-editor is a fork of the vincentjames501's [angular-cron-gen](https:
 
 ## License:
 Licensed under the MIT license
+# croneditor
