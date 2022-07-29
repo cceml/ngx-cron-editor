@@ -145,5 +145,8 @@
       }
     }
   },
-  "defaultProject": "ngx-cron-editor"
+  "defaultProject": "ngx-cron-editor",
+  "cli": {
+    "analytics": "5468f5fb-a6cf-4a90-ad9f-8d08f20fdc48"
+  }
 }

@@ -25,7 +25,7 @@ export class AppComponent implements OnInit {
     hideWeeklyTab: false,
     hideMonthlyTab: false,
     hideYearlyTab: false,
-    hideAdvancedTab: false,
+    hideAdvancedTab: true,
     hideSpecificWeekDayTab: false,
     hideSpecificMonthWeekTab: false,
 
